@@ -1,0 +1,15 @@
+{
+  "name": "pointlic",
+  "version": "1.0.0",
+  "description": "pointlic backend server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "williams in collaboration with bigibrand",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^9.0.2",
+    "express": "^4.17.1"
+  }
+}
